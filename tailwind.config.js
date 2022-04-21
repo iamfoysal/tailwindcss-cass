@@ -4,6 +4,8 @@ module.exports = {
     './dist/**/*.{html,js}',
     './index.html',
     './next.html',
+    './pricing.html',
+    './card.html',
   ],
   
   darkMode: 'media',
